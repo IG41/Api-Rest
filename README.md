@@ -59,6 +59,7 @@ As seguintes dependências são usadas neste projeto:
   }
 }
 
+```
 🚀 Como Iniciar
 
 1. Clone este repositório:
@@ -70,7 +71,7 @@ npm install
 3. Inicie o servidor:
 npm start
 
-🛠️ Funcionalidades
+## 🛠️ Funcionalidades
 Gerenciamento de Listas: Adicionar, editar e excluir listas.
 Gerenciamento de Personagens: Adicionar, editar e excluir personagens.
 Gerenciamento de Usuários: Registro, autenticação e gerenciamento de usuários.
